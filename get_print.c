@@ -1,4 +1,4 @@
-#include "main.h"
+clude "main.h"
 
 /**
  * get_print - selects the right printing function
